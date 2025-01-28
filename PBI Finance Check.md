@@ -3,9 +3,11 @@ Class: All
 aliases: 
 tags: 
 created: 2024-01-25T09:12
-updated: 2024-11-10T16:13
+updated: 2025-01-28T14:34
 ---
 # PBI Finance Check
+
+[[Topicflow Tutorials]]
 
 ```
 EBIT Total % = 
